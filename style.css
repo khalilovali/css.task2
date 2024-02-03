@@ -1,3 +1,10 @@
+.hamburger-menu-line {
+  width: 35px;
+  height: 3px;
+  background-color: red;
+  margin: 3px;
+}
+
 .container {
   cursor: pointer;
   display: block;
@@ -92,7 +99,6 @@ h3 {
 .fa-mobile-phone {
   font-family: simple-line-icons;
   font-style: normal;
-  font-size: 1000%;
   margin-left: 14%;
 }
 .fa-pen-circle {
@@ -253,4 +259,8 @@ portfolio-item {
 }
 .frame {
   width: 100%;
+}
+
+i {
+  font-size: 68px !important;
 }
