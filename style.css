@@ -1,0 +1,256 @@
+.container {
+  cursor: pointer;
+  display: block;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.stylish {
+  font-size: 480%;
+  color: black;
+  text-align: center;
+  margin-top: 25%;
+}
+.first {
+  width: 100%;
+}
+.free {
+  color: black;
+  margin-top: 10%;
+  margin-bottom: 30%;
+  font-size: 200%;
+  font-style: italic;
+}
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(41, 153, 228, 0.89);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20%;
+}
+
+.container .btn:hover {
+  background-color: #1d809f;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: gray;
+  font-size: 120%;
+}
+.btn2 {
+  cursor: pointer;
+  color: white;
+  width: 180px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #212529;
+  border: none;
+}
+.btn2:hover {
+  background-color: #424649;
+}
+.linksplash {
+  color: #1d809f;
+}
+.secondpart {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+h3 {
+  text-align: center;
+  color: yellow;
+}
+
+.third {
+  margin-left: 10%;
+}
+.thirdh3 {
+  color: black;
+  margin-left: 5%;
+  margin-right: 75%;
+}
+#third {
+  background-color: #1d809f;
+}
+.fa-mobile-phone {
+  font-family: simple-line-icons;
+  font-style: normal;
+  font-size: 1000%;
+  margin-left: 14%;
+}
+.fa-pen-circle {
+  font-size: 555px;
+}
+.services {
+  background-color: #1d809f;
+}
+.offer {
+  color: white;
+}
+.color {
+  color: #ecb807;
+  text-align: center;
+}
+.scissors {
+  width: 100%;
+}
+.container .Download {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #1d809f;
+  color: white;
+  font-size: 16px;
+  padding: 24px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20%;
+}
+.container .Download:hover {
+  background-color: #196d87;
+}
+.welcome {
+  color: black;
+  font-size: 76px;
+}
+.recent {
+  color: black;
+}
+.container {
+  margin-bottom: 10px;
+}
+.next {
+  margin-top: 10%;
+}
+.stationaryimg {
+  position: absolute;
+
+  margin-left: 16%;
+  width: 35%;
+  height: 35%;
+  margin-bottom: 55%;
+}
+.icecream {
+  position: absolute;
+
+  width: 35%;
+  height: 35%;
+  padding-left: 50%;
+  margin-bottom: 55%;
+}
+.strawberries {
+  position: relative;
+  width: 35%;
+  height: 5%;
+  padding-left: 51%;
+  margin-top: 15%;
+  margin-right: 15%;
+}
+.workspace {
+  position: relative;
+  width: 35%;
+  height: 35%;
+  margin-bottom: 65%;
+}
+.portfolio-item .caption .caption-content {
+  box-sizing: border-box;
+  color: green;
+  display: block;
+  margin: auto 2rem 2rem;
+}
+portfolio-item {
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1rem;
+  overflow: hidden;
+}
+.top-left {
+  margin-top: 54%;
+  margin-right: 10%;
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 8px;
+  left: 24px;
+}
+.bottom-left {
+  display: inline-block;
+  margin-bottom: 10%;
+  margin-left: 1%;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+.img-fluid img3 {
+  display: inline-block;
+  margin-right: 75%;
+}
+.g {
+  color: #212529;
+}
+.bttn1 {
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  color: black;
+  width: 180px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  border: none;
+  margin-bottom: 10%;
+}
+.bttn2 {
+  text-align: center;
+  color: white;
+  width: 180px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #212529;
+  border: none;
+  margin-bottom: 10%;
+  cursor: pointer;
+}
+
+.container1 {
+  font-size: 16px;
+  padding-top: 10%;
+  text-align: center;
+  background-color: #1d809f;
+  margin-top: 0%;
+  font-display: 15%;
+  background-size: 290%;
+}
+.container1 .bttn1:hover {
+  background-color: #d3d4d5;
+}
+
+.bttn2:hover {
+  background-color: #4d5154;
+}
+.g {
+  color: white;
+}
+.frame {
+  width: 100%;
+}
