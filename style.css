@@ -80,29 +80,22 @@ h3 {
   color: yellow;
 }
 
-.third {
-  color: white;
-  margin-left: 10%;
-}
-.thirdh3 {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  width: 100%;
-}
-#third {
-  width: 100%;
-  text-align: center;
+#services {
   background-color: #1d809f;
+  color: white;
+  text-align: center;
+  padding: 40px;
+
+  .desc {
+    color: white;
+  }
 }
 
-.services {
+.service {
   display: inline-block;
-  width: 100%;
-  background-color: #1d809f;
+  padding: 20px;
 }
 .offer {
-  color: white;
   font-size: 48px;
 }
 
@@ -267,7 +260,7 @@ portfolio-item {
 .icon {
   display: inline-block;
   background-color: white;
-  width: 10%;
   border-radius: 50%;
   text-align: center;
+  padding: 20px;
 }
