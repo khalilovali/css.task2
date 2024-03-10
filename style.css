@@ -264,3 +264,66 @@ portfolio-item {
   text-align: center;
   padding: 20px;
 }
+@media (min-width: 576px) {
+  .stylish {
+    font-size: 10px;
+  }
+  .free {
+    font-size: 8px;
+    display: block;
+  }
+  .btn {
+    font-size: xx-small;
+  }
+}
+@media (min-width: 768px) {
+  .stylish {
+    font-size: 16px;
+  }
+  .free {
+    font-size: 12px;
+    display: block;
+  }
+  .btn {
+    visibility: hidden;
+  }
+}
+@media (min-width: 992px) {
+  .stylish {
+    font-size: 24px;
+  }
+  .free {
+    font-size: 18px;
+    display: block;
+  }
+  .btn {
+    visibility: hidden;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+@media (min-width: 576px) {
+  #services {
+    font-size: 1rem;
+    width: 100%;
+    flex: 1 0;
+  }
+}
